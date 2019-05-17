@@ -336,6 +336,8 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/libadiertac.so:system/vendor/lib64/libadiertac.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/libadreno_utils.so:system/vendor/lib64/libadreno_utils.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/libadsprpc.so:system/vendor/lib64/libadsprpc.so \
+    vendor/oneplus/oneplus2/proprietary/vendor/lib64/libaptXHD_encoder.so:system/vendor/lib64/libaptXHD_encoder.so \
+    vendor/oneplus/oneplus2/proprietary/vendor/lib64/libaptX_encoder.so:system/vendor/lib64/libaptX_encoder.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/libaudcal.so:system/vendor/lib64/libaudcal.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/libbccQTI.so:system/vendor/lib64/libbccQTI.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/libbtnv.so:system/vendor/lib64/libbtnv.so \
